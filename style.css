@@ -248,4 +248,8 @@ footer{
         display: block;
         display: none;
     }
+
+    .pickup{
+        padding-top: 70px;
+    }
 }
